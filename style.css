@@ -1,0 +1,10 @@
+header {
+    background-color:#92d8c1;
+    color: white;
+    font-size: 24px;
+    margin-top: 0.5em;
+}
+
+.nav justify-content-end {
+    color: grey;
+}
