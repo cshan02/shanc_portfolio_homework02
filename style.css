@@ -33,24 +33,27 @@ footer {
   
   /* Make the image responsive */
   .thumbnail img {
-    width: 100%;
-    height: auto;
+      margin-top: 1em;
+      margin-bottom: 1em;
+      margin-left: 1em;
+      margin-right: 1em;
+      width:230px
+      height:225px;
   }
   
   /* Style the button and place it in the middle of the container/image */
   .thumbnail .btn {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 80%;
+    left: 75%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     background-color: #92d8c1;
     color: white;
     font-size: 16px;
-    padding: 12px 24px;
     border: none;
     cursor: pointer;
-    border-radius: 5px;
+    width: 225px
   }
   
   .thumbnail .btn:hover {
