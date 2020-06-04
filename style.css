@@ -21,9 +21,23 @@ header {
     color: grey;
 }
 
+#navbarfont {
+    color: lightgray;
+}
+
+h1 {
+    color: #92d8c1; 
+    font: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 footer {
     color: white;
     text-align: center;
+}
+
+#footer {
+    background-color:darkgray;
 }
 
 /* Container needed to position the button. Adjust the width as needed */
@@ -65,4 +79,10 @@ footer {
       margin-top: 3em;
       margin-left: 3em;
       margin-bottom: 3em;
+  }
+
+#submitbtn {
+      margin-left: 3em;
+      background-color:#92d8c1;
+      border: none;
   }
