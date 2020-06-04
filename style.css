@@ -6,8 +6,9 @@ header {
 }
 
 .row{
-    mrgin-top:0.1em;
+    margin-top:0.1em;
 }
+
 .jumbotron {
     margin-top:0.1em
 }
@@ -58,4 +59,10 @@ footer {
   
   .thumbnail .btn:hover {
     background-color: black;
+  }
+
+  #contactformcol {
+      margin-top: 3em;
+      margin-left: 3em;
+      margin-bottom: 3em;
   }
